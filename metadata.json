@@ -1,0 +1,6 @@
+{
+  "name": "TriageDesk",
+  "description": "A smart bug and incident triage desk with auto-categorization and resolution assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
