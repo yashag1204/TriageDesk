@@ -2,6 +2,8 @@
 
 A high-performance ticket classification, automated routing, and real-time SLA loop-back simulation system. Designed to demonstrate an understanding of high-throughput support ticket workflows, queue calibration, and service level agreement (SLA) operations.
 
+🔗 **Live Application:** [https://triagedesk-1.onrender.com](https://triagedesk-1.onrender.com)
+
 ---
 
 ### 📸 Project Visuals & System Workflow
